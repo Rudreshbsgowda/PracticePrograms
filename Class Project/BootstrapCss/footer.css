@@ -1,0 +1,9 @@
+@media(width > 400px){
+    .links-column{
+        text-align: left;
+    }
+    section.top .links{
+        grid-template-columns:autorepeat(2,1 fr);
+        
+    }
+}

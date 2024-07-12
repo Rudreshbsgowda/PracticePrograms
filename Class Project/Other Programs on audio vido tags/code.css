@@ -1,0 +1,12 @@
+code{
+    border-radius: 4px;
+    padding: 2px;
+    background-color:#F4BD5030;
+    border: 1px solid #F4BD50;
+}
+samp{
+    border-radius: 4px;
+    padding: 2px;
+    background-color:#B881FF30;
+    border: 1px solid #B881FF;
+}
